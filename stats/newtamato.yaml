@@ -1,0 +1,48 @@
+username: newtamato
+updatedAt: 2026-09-21T04:00:16.445Z
+skills:
+  plugins:
+    count: 2
+    lastUsed: 2026-09-18T01:49:27.572Z
+interventions:
+  sessions: 7
+  interrupt: 0
+  toolReject: 0
+  correction: 1
+prompts: 172
+tokens:
+  input: 7929196
+  output: 495634
+  cacheRead: 213742208
+  cacheCreation: 0
+daily:
+  2026-09-15:
+    sessionsEnded: 2
+    sessionsSucceeded: 2
+    promptTurns: 7
+    durationMs: 856493
+    sessionsCorrected: 0
+    pricedRequests: 0
+    costMicros: 0
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+  2026-09-16:
+    sessionsEnded: 3
+    sessionsSucceeded: 3
+    promptTurns: 108
+    durationMs: 27632677
+    sessionsCorrected: 0
+    pricedRequests: 0
+    costMicros: 0
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
+  2026-09-20:
+    sessionsEnded: 1
+    sessionsSucceeded: 0
+    promptTurns: 56
+    durationMs: 11550759
+    sessionsCorrected: 1
+    pricedRequests: 0
+    costMicros: 0
+    cacheReadTokens: 0
+    cacheEligibleInputTokens: 0
